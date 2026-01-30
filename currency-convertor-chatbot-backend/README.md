@@ -17,11 +17,11 @@ A conversational AI chatbot that performs *real-time currency conversions* using
 
 ##  Tech Stack
 
-  Natural Language Understanding - **Dialogflow**
-  Backend API - **Flask (Python)**
-  Deployment - **Render**
-  External Data Source - **ExchangeRate-API**
-  Chat Platform - **Telegram**
+-  Natural Language Understanding - **Dialogflow**
+-  Backend API - **Flask (Python)**
+-  Deployment - **Render**
+-  External Data Source - **ExchangeRate-API**
+-  Chat Platform - **Telegram**
 
 ---
 
